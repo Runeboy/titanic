@@ -1,0 +1,9 @@
+*.iml
+*.bbl
+*.blg
+*.pyc
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.DS_Store
