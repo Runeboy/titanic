@@ -1,2 +1,10 @@
-# titanic
-Predicting survival rates of the Titanic using machine learning techniques
+<img src="img/doc-0.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-1.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-2.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-3.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-4.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-5.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-6.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-7.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-8.jpg" alt="page 1" width="100%"/>
+<img src="img/doc-9.jpg" alt="page 1" width="100%"/>
